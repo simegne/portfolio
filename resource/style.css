@@ -14,6 +14,7 @@
     font-size: 16px;
  }
 .navbar{
+    background-image: url("image/navback.jpg");
    height:100px;
    color: black;
 }
